@@ -59,6 +59,9 @@ npm install
 In the root directory, create a `.env` file with the following variables (values required but not provided here):
 
 ```env
+# Port
+PORT=5000
+
 # PostgreSQL / Prisma
 DATABASE_URL=
 POSTGRES_USER=
