@@ -12,7 +12,7 @@ A collaboration platform
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 
 ## Try it out
-[https://spaces-frontend-lovat.vercel.app/](https://spaces-frontend-lovat.vercel.app/)
+[https://spaces-frontend-omega.vercel.app/](https://spaces-frontend-omega.vercel.app/)
 - Login using your email and password or create a new account
 - <strong>If you don't want to register</strong>, login using the <strong>demo</strong> account:
   - <strong>email</strong>: test@gmail.com

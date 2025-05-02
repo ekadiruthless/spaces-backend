@@ -12,7 +12,8 @@ import { WebServer } from "./webServer";
 const port = parseInt(process.env.PORT || '3000', 10)
 const allowedOrigins = [
       "http://127.0.0.1:3000",
-      "https://spaces-frontend-lovat.vercel.app",
+      "https://spaces-frontend-omega.vercel.app",
+      "https://spaces-frontend-omega.vercel.app"
       "http://localhost:3000",
     ]
 
